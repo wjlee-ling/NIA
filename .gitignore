@@ -3,3 +3,6 @@
 
 # exclude corpus 
 외래어_코퍼스_추출/NIKL_SPOKEN(v1.0)/
+
+# exclude cache
+__pycache__/
